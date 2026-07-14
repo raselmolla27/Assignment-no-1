@@ -6,13 +6,16 @@
 img {
     max-width: 100%;
 }
+p{
+    color: #575757;
+}
 .navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 80px;
 }
-ul{
+.nav-list{
     display: flex;
     justify-content: space-between;
     align-items:center;
@@ -73,7 +76,8 @@ ul li a:hover{
 .hero-section-content p{
     max-width: 600px;
     margin-bottom: 90px;
-    opacity: 90%;
+    color: white;
+    opacity: 80%;
 }
 .hero-section-content .btn{
     margin-top: 60px;
@@ -115,4 +119,78 @@ ul li a:hover{
 .speaker-card h3{
     margin-top: 5px;
     font-size: 20px;
+}
+
+/* Secure Section */
+.secure-parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 15px;
+    text-align: left;
+    max-width: 850px;
+    margin: auto;
+    margin-top: 10px;
+}
+.secure-parent{
+    margin-top: 40px;
+}
+.secure-parent hr{
+    
+    margin-top: 10px;
+}
+.secure-parent ul{
+    margin: 15px 0 0 15px;
+    font-size: 14px;
+}
+.secure-parent ul li::marker{
+    color: blue;
+}
+.standard-card{
+    flex: 1;
+    text-align: left;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    mar
+}
+.pro-card{
+    flex: 1;
+    text-align: left;
+    padding: 30px;
+    background: #0D1B2A;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.team-card{
+    flex: 1;
+    text-align: left;
+    padding: 30px;
+    background: #E5E7EB;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.standard-card .btn{
+    width: 100%;
+    margin-top: 20px;
+    background-color: white;
+    color: #1D4ED8;
+    border: 1px solid #1D4ED8;
+}
+.team-card .btn{
+    width: 100%;
+    margin-top: 20px;
+    background-color: #E5E7EB;
+    color: #0D1B2A;
+    border: 1px solid #0D1B2A;
+    margin-top: 35px;
+}
+.pro-card .btn{
+    width: 100%;
+    margin-top: 55px;
+}
+.secure-parent .size-of-money{
+    font-size: 44px;
 }
