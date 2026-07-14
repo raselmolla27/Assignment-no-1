@@ -3,3 +3,5 @@ First: I have learnd basic html tag,css and able to create a simple website. I a
 Second: Make it more attractive like you can add offer or the full process of the registration through a sequence of first to last.
 
 Third: this is fine but you added all logo from the online. But you have to give just path. I want to use from my folder after downloading these picture. 
+
+*** This is the main three prompts. But in the conversation with gpt there were one or two word more instructions, for the figure these are not too important thats why ignore.
