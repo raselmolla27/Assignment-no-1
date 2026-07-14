@@ -1,0 +1,5 @@
+First: I have learnd basic html tag,css and able to create a simple website. I am doing an assignment for my web devolopment course on DevConf 2026. I have completed the navbar section, hero banner section. There is a challenging a part  which should be done by our own thinking by the help of AI. Now i want to say you that, give me only html and css code of that section. The section might be a registration process or a registration site of hackathon of DevConf programm. You can add img or icon(you can add  dummy path then i will add these).  Give me a sample i can customize both html and css file.
+
+Second: Make it more attractive like you can add offer or the full process of the registration through a sequence of first to last.
+
+Third: this is fine but you added all logo from the online. But you have to give just path. I want to use from my folder after downloading these picture. 
